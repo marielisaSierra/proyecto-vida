@@ -1,12 +1,25 @@
-body {
-    background-color: mediumorchid;
-}
-li{
-    color: floralwhite;
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+
+li {
+  color: #273746;
 }
 p {
-    color: floralwhite;
+  color: #273746;
 }
 a {
-    color: floralwhite;
+  color: floralwhite;
+}
+
+body {
+  background-color: #E0C3FC;
+  font-family: "Lora", serif;
+}
+
+img.soy-yo {
+  width: 300px;
+  height: 300px;
+}
+
+.metas {
+  text-align: center;
 }
